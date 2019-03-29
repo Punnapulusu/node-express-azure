@@ -4,7 +4,5 @@ resources:
     type: GitHub
     endpoint: WellsTest
     name: /repos/Punnapulusu/CommonBuild
-    ref: 
-
 jobs:
 - template: common.yml@template
