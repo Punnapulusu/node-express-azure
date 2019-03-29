@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec08504-759b-4fe2-b5da-0f4366eb2fbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/azure-pipelines.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure-pipelines.yml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/azure-pipelines.yml.bak" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,16 +123,15 @@
       <workItem from="1553735639730" duration="939000" />
       <workItem from="1553809106872" duration="54000" />
       <workItem from="1553809198919" duration="666000" />
-      <workItem from="1553812761725" duration="923000" />
+      <workItem from="1553812761725" duration="1269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3011000" />
+    <option name="totallyTimeSpent" value="3357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1969" y="49" width="1680" height="982" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988764" visible="true" weight="0.26007327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

@@ -3,8 +3,8 @@ resources:
   - repository: template
     type: GitHub
     endpoint: test2
-    name: CommonBuild
-    ref: refs/heads/master
+    name: CommonBuild/BuildTemplate
+    ref: refs/remotes/origin/HEAD
 
 jobs:
 - template: common.yml@template
