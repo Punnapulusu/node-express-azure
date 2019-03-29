@@ -3,7 +3,7 @@ resources:
   - repository: template
     type: GitHub
     endpoint: WellsTest
-    name: /Punnapulusu/CommonBuild/BuildTemplate/
+    name: /Punnapulusu/CommonBuild/BuildTemplate
     ref: master
 jobs:
 - template: common.yml@template
