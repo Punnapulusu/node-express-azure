@@ -3,7 +3,7 @@ resources:
   - repository: template
     type: GitHub
     endpoint: WellsTest
-    name: CommonBuild
+    name: https://github.com/Punnapulusu/CommonBuild
     ref: 
 
 jobs:
