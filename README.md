@@ -47,7 +47,7 @@ This walkthrough contains all the steps you should follow to fork this repo and 
 
 ## App Info
 
-### Author
+Author = Punna Reddy
 
 
 ### Version
