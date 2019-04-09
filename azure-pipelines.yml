@@ -7,3 +7,9 @@ resources:
     ref: master
 jobs:
 - template: common.yml@template
+
+- task: Npm@1
+  inputs:
+    command: publish
+    publishRegistry: useFeed
+    publishFeed: Artifacts
