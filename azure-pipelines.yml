@@ -8,6 +8,7 @@ resources:
 jobs:
 - template: common.yml@template
 
+steps:
 - task: Npm@1
   inputs:
     command: publish
