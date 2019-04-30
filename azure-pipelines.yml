@@ -8,5 +8,6 @@ resources:
 jobs:
 - template: common.yml@template
 
+steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish artifacts: drop'
