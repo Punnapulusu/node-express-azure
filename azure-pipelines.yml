@@ -7,3 +7,6 @@ resources:
     ref: master
 jobs:
 - template: common.yml@template
+
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish artifacts: drop'
